@@ -1,4 +1,4 @@
-package main
+package container
 
 import "fmt"
 
@@ -19,9 +19,16 @@ func main() {
 		fmt.Println(k, v)
 	}
 	
-	courseName, ok := m["course"]
-	if couseName, ok := m["course"]; ok {
-		fmt..
+	if courseName, ok := m["course"]; ok {
+		fmt.Println(courseName)
+	} else {
+		fmt.Printf("没有 key")
 	}
-	fmt.Println(len(courseName), ok)
+
+	delete(m, "name")
+	if name, ok := m["name"]; ok {
+		fmt.Println(name)
+	} else {
+		fmt.Printf("没有 key")
+	}
 }
