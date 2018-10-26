@@ -1,12 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+	"go/doc"
+)
 
 func lengthOfNoRepeatingSubStr (s string) int {
-	lastOccurred := make(map[byte]int)
+	lastOccurred := make(map[rune]int)
 	start := 0
 	maxLength := 0
-	for i, ch := range []byte(s) {
+	for i, ch := range []rune(s) {
 		if lastI, ok := lastOccurred[ch];
 			ok && lastI >= start {
 			start = lastOccurred[ch] + 1
@@ -38,6 +42,10 @@ func test(s string) int {
 }
 
 func main() {
-	fmt.Println(lengthOfNoRepeatingSubStr("abc"))
-	fmt.Println(test("abc"))
+	fmt.Println(lengthOfNoRepeatingSubStr("一二三四二一"))
+	fmt.Println(test("一二三四二一"))
+	
+	s := strings.Fields("a b c ")
+	fmt.Println(doc.Type{})
+	
 }
