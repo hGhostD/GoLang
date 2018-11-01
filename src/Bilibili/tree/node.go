@@ -5,7 +5,7 @@ import (
 )
 
 type Node struct {
-	Value int
+	Value       int
 	Left, Right *Node
 }
 
@@ -22,9 +22,11 @@ func (node *Node) SetValue(Value int) {
 }
 
 func (node *Node) Traverse() {
-	if node == nil { return  }
+	if node == nil {
+		return
+	}
 	node.Left.Traverse()
 	node.Print()
 	node.Right.Traverse()
-}
 
+}
