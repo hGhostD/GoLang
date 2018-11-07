@@ -2,942 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991ef544-569b-4c38-99db-88b391f56c8e" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/goimports" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/gopm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/AUTHORS" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/CONTRIBUTORS" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/PATENTS" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/benchmark/parse/parse.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/benchmark/parse/parse_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/blog/atom/atom.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/blog/blog.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/blog/blog_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/benchcmp/benchcmp.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/benchcmp/benchcmp_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/benchcmp/compare.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/benchcmp/compare_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/benchcmp/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/main_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/testdata/out.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/testdata/src/domain.name/importdecl/p.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/testdata/src/initial/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/testdata/src/initial/b.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/bundle/testdata/src/initial/c.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/callgraph/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/callgraph/main_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/callgraph/testdata/src/pkg/pkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/callgraph/testdata/src/pkg/pkg_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/compilebench/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/cover.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/cover_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/func.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/html.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/testdata/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/cover/testdata/test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/digraph/digraph.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/digraph/digraph_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/eg/eg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/main_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/fruit.io/banana/banana.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/fruit.io/orange/orange.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/fruit.io/pear/pear.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/new.com/one/one.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/old.com/bad/bad.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/old.com/one/one.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/titanic.biz/bar/bar.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/fiximports/testdata/src/titanic.biz/foo/foo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/.dockerignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/Dockerfile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/download.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/download_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/main_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/make.bash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/path.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/path_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/server/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/server/app.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/server/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/steps.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/system.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/system_unix.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/system_windows.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/getgo/upload.bash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/go-contrib-init/contrib.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/go-contrib-init/contrib_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/gc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/gccgo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/godex.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/isAlias18.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/isAlias19.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/print.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/source.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godex/writetype.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/Dockerfile.prod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/README.godoc-app" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/app.dev.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/app.prod.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/appinit.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/autocert.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/blog.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/cloudbuild.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/codewalk.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/dl.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/generate-index.bash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/godoc_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/goroot.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/handlers.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/hg-git-mapping.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/index.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/play.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/regtest_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/godoc/x.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goimports/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goimports/goimports.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goimports/goimports_gc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goimports/goimports_not_gc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/golsp/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/gomvpkg/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/gorename/cgo_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/gorename/gorename_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/gorename/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/gotype/gotype.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/gotype/sizesFor18.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/gotype/sizesFor19.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goyacc/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goyacc/testdata/expr/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goyacc/testdata/expr/expr.y" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goyacc/testdata/expr/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/goyacc/yacc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/callees.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/callers.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/callstack.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/definition.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/describe.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/freevars.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/guru.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/guru_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/implements.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/isAlias18.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/isAlias19.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/peers.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/pointsto.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/pos.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/referrers.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/serial/serial.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/alias/alias.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/alias/alias.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/calls-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/calls-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/calls/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/calls/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/definition-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/definition-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/definition-json/main19.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/definition-json/main19.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/definition-json/type.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/describe-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/describe-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/describe/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/describe/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/describe/main19.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/describe/main19.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/freevars/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/freevars/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements-methods-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements-methods-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements-methods/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements-methods/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/implements/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/imports/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/imports/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/lib/lib.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/lib/sublib/sublib.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/main/multi.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/peers-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/peers-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/peers/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/peers/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/pointsto-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/pointsto-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/pointsto/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/pointsto/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/referrers-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/referrers-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/referrers/ext_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/referrers/int_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/referrers/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/referrers/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/reflection/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/reflection/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/softerrs/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/softerrs/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/what-json/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/what-json/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/what/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/what/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/whicherrs/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/testdata/src/whicherrs/main.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/unit_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/what.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/guru/whicherrs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/.clang-format" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/main.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/main_test.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/testing/karma.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/testing/test_main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/tsconfig.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/client/tslint.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/internal/core/mmapfile.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/internal/core/mmapfile_other.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/internal/core/raw.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/heapview/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/html2article/conv.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/dir.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/play.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/article.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/dir.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/dir.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/jquery-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/notes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/notes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/slides.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/static/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/templates/action.tmpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/templates/article.tmpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/templates/dir.tmpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/present/templates/slides.tmpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/ssadump/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stress/stress.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/endtoend_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/golden_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/importer18.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/importer19.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/stringer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/cgo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/day.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/gap.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/num.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/number.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/prime.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/tag_main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/tag_tag.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/unum.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/testdata/unum2.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/stringer/util_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/Dockerfile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/cert.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/godoc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/godoc.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/talks.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/talks.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/tip-prod.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/tip-service.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/tip.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/tip/tip_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/toolstash/buildall" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/toolstash/cmp.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cmd/toolstash/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/codereview.cfg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/popcnt_amd64.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/popcnt_amd64.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/popcnt_gccgo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/popcnt_gccgo_c.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/popcnt_generic.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/sparse.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/sparse_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/container/intsets/util_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/cover/profile.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/analysis.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/analysistest/analysistest.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/analysistest/analysistest_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/cmd/vet/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/internal/analysisflags/flags.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/internal/analysisflags/flags_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/internal/checker/checker.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/multichecker/multichecker.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/asmdecl.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/asmdecl_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm1.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm2.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm3.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm4.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm5.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm6.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm7.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/asmdecl/testdata/src/a/asm8.s" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/assign/assign.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/assign/assign_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/assign/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/atomic/atomic.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/atomic/atomic_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/atomic/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/bools/bools.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/bools/bools_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/bools/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/buildssa/buildssa.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/buildssa/buildssa_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/buildssa/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/buildtag/buildtag.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/buildtag/buildtag_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/buildtag/testdata/src/a/buildtag.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/cgocall/cgocall.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/cgocall/cgocall_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/cgocall/testdata/src/a/cgo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/cgocall/testdata/src/a/cgo2.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/cgocall/testdata/src/a/cgo3.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/cgocall/testdata/src/a/cgo4.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/cgocall/testdata/src/b/b.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/composite/composite.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/composite/composite_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/composite/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/composite/whitelist.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/copylock/copylock.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/copylock/copylock_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/copylock/testdata/src/a/copylock.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/copylock/testdata/src/a/copylock_func.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/copylock/testdata/src/a/copylock_range.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/ctrlflow/ctrlflow.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/ctrlflow/ctrlflow_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/ctrlflow/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/ctrlflow/testdata/src/lib/lib.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/findcall/cmd/findcall/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/findcall/findcall.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/findcall/findcall_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/findcall/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/httpresponse/httpresponse.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/httpresponse/httpresponse_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/httpresponse/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/inspect/inspect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/internal/analysisutil/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/loopclosure/loopclosure.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/loopclosure/loopclosure_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/loopclosure/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/lostcancel/cmd/lostcancel/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/lostcancel/lostcancel.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/lostcancel/lostcancel_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/lostcancel/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/nilfunc/nilfunc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/nilfunc/nilfunc_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/nilfunc/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/nilness/cmd/nilness/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/nilness/nilness.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/nilness/nilness_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/nilness/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/pkgfact/pkgfact.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/pkgfact/pkgfact_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/pkgfact/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/pkgfact/testdata/src/b/b.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/pkgfact/testdata/src/c/c.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/printf/printf.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/printf/printf_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/printf/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/printf/testdata/src/b/b.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/printf/types.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/shadow/shadow.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/shadow/shadow_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/shadow/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/shift/dead.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/shift/shift.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/shift/shift_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/shift/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/stdmethods/stdmethods.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/stdmethods/stdmethods_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/stdmethods/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/structtag/structtag.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/structtag/structtag_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/structtag/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/tests/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/tests/testdata/src/a/a_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/tests/testdata/src/a/ax_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/tests/testdata/src/divergent/buf.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/tests/testdata/src/divergent/buf_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/tests/tests.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/tests/tests_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unreachable/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unreachable/unreachable.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unreachable/unreachable_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unsafeptr/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unsafeptr/unsafeptr.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unsafeptr/unsafeptr_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unusedresult/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unusedresult/unusedresult.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/passes/unusedresult/unusedresult_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/printf/printf.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/printf/testdata/src/a/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/singlechecker/singlechecker.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/analysis/validate.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/astutil/enclosing.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/astutil/enclosing_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/astutil/imports.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/astutil/imports_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/astutil/rewrite.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/astutil/rewrite_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/astutil/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/inspector/inspector.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/inspector/inspector_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ast/inspector/typeof.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/allpackages.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/allpackages_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/fakecontext.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/overlay.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/overlay_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/tags.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/tags_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/util_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/buildutil/util_windows_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/callgraph.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/cha/cha.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/cha/cha_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/cha/testdata/func.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/cha/testdata/iface.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/cha/testdata/issue23925.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/cha/testdata/recv.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/rta/rta.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/rta/rta_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/rta/testdata/func.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/rta/testdata/iface.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/rta/testdata/rtype.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/static/static.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/static/static_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/callgraph/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/cfg/builder.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/cfg/cfg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/cfg/cfg_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gccgoexportdata/gccgoexportdata.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gccgoexportdata/gccgoexportdata_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gccgoexportdata/testdata/errors.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gccgoexportdata/testdata/long.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gccgoexportdata/testdata/short.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gcexportdata/example_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gcexportdata/gcexportdata.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gcexportdata/gcexportdata_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gcexportdata/importer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gcexportdata/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/gcexportdata/testdata/errors-ae16.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/cgo/cgo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/cgo/cgo_pkgconfig.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/ar.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/backdoor.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/gccgoinstallation.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/gccgoinstallation_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/importer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/importer_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/newInterface10.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/newInterface11.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/parser.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/parser_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/aliases.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/aliases.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/complexnums.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/complexnums.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/conversions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/conversions.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/escapeinfo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/escapeinfo.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/imports.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/imports.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/issue27856.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/issue27856.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/libimportsar.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/pointer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/pointer.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/time.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testdata/unicode.gox" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gccgoimporter/testenv_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/bexport.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/bexport_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/bimport.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/exportdata.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/gcimporter.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/gcimporter11_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/gcimporter_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/iimport.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/newInterface10.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/newInterface11.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/b.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/exports.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/issue15920.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/issue20046.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/issue25301.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/p.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.11_0i.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.11_6b.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.11_999b.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.11_999i.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.7_0.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.7_1.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.8_4.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/internal/gcimporter/testdata/versions/test_go1.8_5.a" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/example_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/loader.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/loader_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/stdlib_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/testdata/a.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/testdata/b.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/testdata/badpkgdecl.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/loader/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/example_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/external.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/golist.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/golist_fallback.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/golist_fallback_testmain.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/gopackages/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packages.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packages110_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packages_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagescgo_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagestest/export.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagestest/export_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagestest/gopath.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagestest/gopath_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagestest/modules.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagestest/modules_111.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/packagestest/modules_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/stdlib_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/list" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.ziphash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/list" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.0.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.0.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.0.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.0.ziphash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/github.com/heschik/tools-testrepo/v2@v2.0.0/go.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/github.com/heschik/tools-testrepo/v2@v2.0.0/pkg/pkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/github.com/heschik/tools-testrepo@v1.0.0/go.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/pkg/mod/github.com/heschik/tools-testrepo@v1.0.0/pkg/pkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_Modules/src/b/pkg/pkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/list" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/@v/v1.0.0.ziphash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/list" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.1.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.1.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.1.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.1.ziphash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.2.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.2.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.2.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/cache/download/github.com/heschik/tools-testrepo/v2/@v/v2.0.2.ziphash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/github.com/heschik/tools-testrepo/v2@v2.0.1/go.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/github.com/heschik/tools-testrepo/v2@v2.0.1/pkg/pkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/github.com/heschik/tools-testrepo/v2@v2.0.2/go.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/github.com/heschik/tools-testrepo/v2@v2.0.2/pkg/pkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/github.com/heschik/tools-testrepo@v1.0.0/go.mod" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/testdata/TestName_ModulesDedup/pkg/mod/github.com/heschik/tools-testrepo@v1.0.0/pkg/pkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/packages/visit.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/TODO" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/analysis.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/api.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/callgraph.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/constraint.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/example_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/gen.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/hvn.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/intrinsics.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/labels.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/opt.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/pointer_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/print.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/query.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/query_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/reflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/solve.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/stdlib_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/a_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/another.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/arrayreflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/arrays.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/channels.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/chanreflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/chanreflect1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/context.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/conv.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/extended.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/finalizer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/flow.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/fmtexcerpt.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/func.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/funcreflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/hello.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/interfaces.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/issue9002.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/mapreflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/maps.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/panic.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/recur.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/reflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/rtti.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/structreflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/structs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/testdata/timer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/pointer/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/blockopt.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/builder.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/builder_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/const.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/create.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/dom.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/emit.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/example_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/func.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/identical.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/identical_17.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/identical_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/external.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/external_darwin.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/external_unix.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/interp.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/interp_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/map.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/ops.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/reflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/a_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/b_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/boundmeth.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/c_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/callstack.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/complit.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/coverage.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/defer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/fieldprom.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/ifaceconv.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/ifaceprom.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/initorder.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/methprom.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/mrvchain.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/range.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/recover.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/reflect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/testdata/static.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/interp/value.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/lift.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/lvalue.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/methods.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/mode.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/print.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/sanity.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/source.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/source_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/ssa.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/ssautil/load.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/ssautil/load_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/ssautil/switch.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/ssautil/switch_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/ssautil/testdata/switches.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/ssautil/visit.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/stdlib_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/testdata/objlookup.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/testdata/structconv.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/testdata/valueforexpr.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/testmain.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/testmain_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/ssa/wrappers.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/objectpath/objectpath.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/objectpath/objectpath_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/callee.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/callee_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/example_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/imports.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/imports_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/map.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/map_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/methodsetcache.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/ui.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/types/typeutil/ui_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/vcs/discovery.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/vcs/env.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/vcs/http.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/vcs/vcs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/go/vcs/vcs_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/analysis/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/analysis/analysis.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/analysis/callgraph.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/analysis/implements.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/analysis/json.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/analysis/peers.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/analysis/typeinfo.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/corpus.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/dirtrees.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/dirtrees_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/dl/dl.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/dl/dl_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/dl/server.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/dl/tmpl.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/env/env.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/format.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/godoc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/godoc17_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/godoc_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/index.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/index_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/linkify.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/meta.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/page.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/parser.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/pres.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/proxy/proxy.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/redirect/hash.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/redirect/redirect.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/redirect/redirect_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/search.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/server.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/server_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/short/short.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/short/tmpl.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/snippet.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/spec.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/spec_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/spot.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/call-eg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/call3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/callers1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/callers2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/chan1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/chan2a.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/chan2b.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/error1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/help.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/ident-def.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/ident-field.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/ident-func.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/ipcg-func.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/ipcg-pkg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/typeinfo-pkg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/analysis/typeinfo-src.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/callgraph.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/codewalk.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/codewalkdir.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/dirlist.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/error.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/example.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/gen.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/gen_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/godoc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/godocs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/minus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/plus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/treeview-black-line.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/treeview-black.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/treeview-default-line.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/treeview-default.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/treeview-gray-line.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/images/treeview-gray.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/implements.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/jquery.treeview.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/jquery.treeview.edit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/jquery.treeview.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/makestatic.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/methodset.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/opensearch.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/package.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/packageroot.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/play.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/playground.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/search.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/searchcode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/searchdoc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/searchtxt.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/static.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/static/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/tab.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/template.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/util/throttle.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/util/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/versions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/versions_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/emptyvfs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/emptyvfs_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/gatefs/gatefs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/gatefs/gatefs_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/httpfs/httpfs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/mapfs/mapfs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/mapfs/mapfs_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/namespace.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/os.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/os_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/vfs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/zipfs/zipfs.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/godoc/vfs/zipfs/zipfs_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/imports/fix.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/imports/fix_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/imports/imports.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/imports/mkindex.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/imports/mkstdlib.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/imports/sortimports.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/imports/zstdlib.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk_dirent_fileno.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk_dirent_ino.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk_dirent_namlen_bsd.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk_dirent_namlen_linux.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk_portable.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/fastwalk/fastwalk_unix.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/gopathwalk/walk.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/gopathwalk/walk_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/jsonrpc2/jsonrpc2.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/jsonrpc2/jsonrpc2_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/jsonrpc2/log.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/jsonrpc2/stream.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/jsonrpc2/wire.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/diagnostics.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/format.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/basic.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/client.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/diagnostics.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/general.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/language.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/protocol.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/registration.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/server.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/text.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/window.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/protocol/workspace.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/server.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/lsp/view.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/memcache/memcache.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/memcache/memcache_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/semver/semver.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/internal/semver/semver_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/playground/appengine.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/playground/common.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/playground/local.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/playground/socket/socket.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/playground/socket/socket_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/args.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/caption.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/code.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/code_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/html.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/iframe.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/image.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/link.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/link_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/parse.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/style.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/style_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/present/video.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/eg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/eg_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/match.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/rewrite.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/A.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/A1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/A1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/A2.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/A2.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/B.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/B1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/B1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/C.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/C1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/C1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/D.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/D1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/D1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/E.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/E1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/E1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/F.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/F1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/F1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/G.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/G1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/G1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/H.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/H1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/H1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/I.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/I1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/I1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/J.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/J1.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/J1.golden" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/bad_type.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/expr_type_mismatch.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/no_after_return.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/no_before.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/eg/testdata/type_mismatch.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/importgraph/graph.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/importgraph/graph_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/rename/check.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/rename/mvpkg.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/rename/mvpkg_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/rename/rename.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/rename/rename_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/rename/spec.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/rename/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/refactor/satisfy/find.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/third_party/moduleloader/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/third_party/moduleloader/moduleloader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/third_party/typescript/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/third_party/typescript/typescript.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/third_party/webcomponents/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/third_party/webcomponents/customelements.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Bilibili/retriever/Mock/mock.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Bilibili/retriever/main.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Bilibili/retriever/real/real.go" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/pkg/darwin_amd64/Bilibili/tree.a" afterPath="$PROJECT_DIR$/pkg/darwin_amd64/Bilibili/tree.a" />
-      <change beforePath="$PROJECT_DIR$/src/Bilibili/basic/basic.go" afterPath="$PROJECT_DIR$/src/Bilibili/basic/basic/basic.go" />
-      <change beforePath="$PROJECT_DIR$/src/Bilibili/queue/entry/main.go" afterPath="$PROJECT_DIR$/src/Bilibili/queue/entry/main.go" />
+      <change beforePath="$PROJECT_DIR$/pkg/darwin_amd64/golang.org/x/tools/container/intsets.a" afterPath="$PROJECT_DIR$/pkg/darwin_amd64/golang.org/x/tools/container/intsets.a" />
       <change beforePath="$PROJECT_DIR$/src/Bilibili/tree/entry/entry.go" afterPath="$PROJECT_DIR$/src/Bilibili/tree/entry/entry.go" />
-      <change beforePath="$PROJECT_DIR$/src/Bilibili/tree/node.go" afterPath="$PROJECT_DIR$/src/Bilibili/tree/node.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -978,16 +50,53 @@
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GoLang" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="entry.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="entry.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bilibili/tree/entry/entry.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1182">
-              <caret line="52" column="15" lean-forward="false" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+            <state relative-caret-position="1305">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
-                <element signature="e#14#108#0" expanded="true" />
+                <element signature="e#14#90#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bilibili/retriever/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="real.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bilibili/retriever/real/real.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#14#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mock.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bilibili/retriever/Mock/mock.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -995,7 +104,7 @@
       <file leaf-file-name="func.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bilibili/basic/func.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-199">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -1015,7 +124,7 @@
       <file leaf-file-name="goimports.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/golang.org/x/tools/cmd/goimports/goimports.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="232">
               <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding />
             </state>
@@ -1025,18 +134,8 @@
       <file leaf-file-name="basic.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bilibili/basic/basic/basic.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="116">
               <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queue.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Bilibili/queue/queue.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1045,7 +144,7 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bilibili/queue/entry/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="319">
               <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="e#14#49#0" expanded="true" />
@@ -1054,20 +153,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doc.go" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/go/1.10.3/libexec/src/fmt/doc.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="node.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bilibili/tree/node.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
+            <state relative-caret-position="841">
               <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
@@ -1124,6 +213,9 @@
         <option value="$PROJECT_DIR$/src/Bilibili/tree/node.go" />
         <option value="$PROJECT_DIR$/src/Bilibili/basic/basic/basic.go" />
         <option value="$PROJECT_DIR$/src/Bilibili/tree/entry/entry.go" />
+        <option value="$PROJECT_DIR$/src/Bilibili/retriever/Mock/mock.go" />
+        <option value="$PROJECT_DIR$/src/Bilibili/retriever/real/real.go" />
+        <option value="$PROJECT_DIR$/src/Bilibili/retriever/main.go" />
       </list>
     </option>
   </component>
@@ -1134,10 +226,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="74" />
+    <option name="x" value="16" />
     <option name="y" value="23" />
-    <option name="width" value="1846" />
-    <option name="height" value="1057" />
+    <option name="width" value="1528" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1179,8 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1204,30 +294,15 @@
               <item name="GoLang" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Bilibili" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="retriever" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GoLang" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoLang" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Bilibili" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoLang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoLang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Bilibili" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoLang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoLang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Bilibili" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="entry" type="462c0819:PsiDirectoryNode" />
+              <item name="retriever" type="462c0819:PsiDirectoryNode" />
+              <item name="Mock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GoLang" type="b2602c69:ProjectViewProjectNode" />
@@ -1237,6 +312,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1249,7 +326,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
   </component>
   <component name="RecentsManager">
@@ -1270,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build entry.go (1)">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
     <configuration name="demo10" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -1295,6 +372,14 @@
       <filePath value="$PROJECT_DIR$/Bilibili/tree/entry/entry.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GoLang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/Bilibili/retriever/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -1311,29 +396,21 @@
       <filePath value="$PROJECT_DIR$/Bilibili/tree/node.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build nonrepeating.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="GoLang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Bilibili/container/nonrepeating.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Go Build.demo10" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build nonrepeating.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build node.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build entry.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build entry.go (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Go Build.go build main.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build node.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build entry.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build entry.go (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build main.go" />
+      <item index="5" class="java.lang.String" itemvalue="Go Build.go build main.go (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build entry.go (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build main.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build entry.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build node.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build nonrepeating.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build main.go (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build entry.go (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build main.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build entry.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build node.go" />
       </list>
     </recent_temporary>
   </component>
@@ -1341,20 +418,26 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="23" width="1846" height="1057" extended-state="0" />
+    <frame x="16" y="23" width="1528" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17461197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2225131" sideWeight="0.4935305" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5266075" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32848233" sideWeight="0.47339246" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3279503" sideWeight="0.47339246" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.66685146" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17430556" sideWeight="0.5064695" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1377,9 +460,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bilibili/loop.go" />
-    <entry file="file://$PROJECT_DIR$/Bilibili/func.go" />
-    <entry file="file://$PROJECT_DIR$/Bilibili/abc.txt" />
     <entry file="file://$PROJECT_DIR$/Bilibili/maps.go" />
     <entry file="file://$PROJECT_DIR$/Bilibili/10-03.go" />
     <entry file="file://$PROJECT_DIR$/Bilibili/basic.go" />
@@ -1447,21 +527,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bilibili/queue/queue.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
+        <state relative-caret-position="29">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bilibili/queue/entry/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="319">
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="e#14#49#0" expanded="true" />
@@ -1471,9 +549,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bilibili/basic/func.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golang.org/x/tools/cmd/goimports/goimports.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bilibili/basic/basic/basic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bilibili/tree/node.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bilibili/tree/entry/entry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#90#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1485,38 +599,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/golang.org/x/tools/cmd/goimports/goimports.go">
+    <entry file="file://$PROJECT_DIR$/src/Bilibili/retriever/Mock/mock.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bilibili/basic/basic/basic.go">
+    <entry file="file://$PROJECT_DIR$/src/Bilibili/retriever/real/real.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bilibili/tree/node.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="551">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding>
-            <element signature="e#14#31#0" expanded="true" />
+            <element signature="e#14#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bilibili/tree/entry/entry.go">
+    <entry file="file://$PROJECT_DIR$/src/Bilibili/retriever/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1182">
-          <caret line="52" column="15" lean-forward="false" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+        <state relative-caret-position="377">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#14#108#0" expanded="true" />
+            <element signature="e#14#85#0" expanded="true" />
           </folding>
         </state>
       </provider>
