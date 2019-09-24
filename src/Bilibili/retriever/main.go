@@ -1,8 +1,10 @@
 package main
 
 import (
+	"Bilibili/retriever/Mock"
 	"Bilibili/retriever/real"
 	"fmt"
+	"time"
 )
 
 type Retriever interface {
@@ -15,6 +17,12 @@ func download(r Retriever) string {
 
 func main() {
 	var r Retriever
-	r = real.Retreiever{}
-	fmt.Println(download(r))
+	r = mock.Retriever{}
+	fmt.Printf("%T %v\n", r, r)
+	r = &real.Retreiever{
+		UserAgent: "Mozilla/5.0",
+		TimeOut:   time.Minute,
+	}
+	fmt.Printf("%T %v\n", r, r)
+	//fmt.Println(download(r))
 }
